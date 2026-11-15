@@ -1,1 +1,16 @@
-{ "expo": { "name": "RamadhanKu", "slug": "ramadhanku", "version": "1.0.0", "orientation": "portrait" } }
+{
+  "expo": {
+    "name": "RamadhanKu",
+    "slug": "ramadhanku",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.mugnijiron.ramadhanku"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b58ae8de-60c4-46ac-8f17-092c6eb2cc31"
+      }
+    }
+  }
+}
